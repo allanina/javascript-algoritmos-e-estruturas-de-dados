@@ -25,3 +25,5 @@ function Queue() {
         console.log(items.toString())
     }
 }
+
+module.exports = Queue;

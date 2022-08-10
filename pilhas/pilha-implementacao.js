@@ -29,3 +29,5 @@ function Stack() {
         console.log(items.toString())
     }
 }
+
+module.exports = Stack;
